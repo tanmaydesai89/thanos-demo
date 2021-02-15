@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/blog/*"
+to = "https://image-tests-preserve-e3e0.netlify.app/blog/:splat"
+status = 200
+force = true
